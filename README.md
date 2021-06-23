@@ -1,1 +1,1 @@
-This is a vehicle parking management system. This is my first project. I have made this project using CPP.
+This is a vehicle parking management system. I have made this project using CPP.
